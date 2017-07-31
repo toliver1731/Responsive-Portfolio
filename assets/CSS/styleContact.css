@@ -1,0 +1,136 @@
+h1 {
+	background-color: #4aaaa5;
+	color: white;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	border-color: #cccccc;
+	height: 50pt;
+	width: 220pt;
+	position: fixed;
+	bottom: 447pt;
+	left: 100pt;
+	text-align: auto;
+	padding-top: 35pt;
+	padding-left: 35pt;
+	
+		
+}
+#name {
+
+	position: absolute;
+
+}
+
+body {
+	margin-top:100pt;
+	margin-bottom: -2000pt;
+	margin-left: : 300px;
+	border-top: 5px solid black;
+	border-bottom: 5px solid black;
+	background-image:url("../Images/ep_naturalwhite.png");
+
+}
+
+#about {
+	position: absolute;
+	right: 400pt;
+	bottom: 540pt;
+
+
+}
+
+#portfolio {
+	position: absolute;
+	right: 290pt;
+	bottom: 540pt;
+	border-left: 1px solid black;
+	border-right: 1px solid black
+
+}
+
+#contact {
+	position: absolute;
+	right: 180pt;
+	bottom: 540pt;
+}
+
+input[type=text], select, textarea {
+    width: 100%;
+    padding: 12px; 
+    border: 1px solid #ccc; 
+    border-radius: 4px; 
+    box-sizing: border-box; 
+    margin-top: 6px; 
+    margin-bottom: 16px; 
+    resize: vertical 
+}
+
+
+input[type=submit] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+
+
+.container {
+	width: 50%;
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+    position: center;
+    margin-left: 175px;
+}
+
+
+   
+
+
+h2 {
+	clear: both;
+	color: #4aaaa5;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	right: 200px;
+	
+}	
+
+h3 {
+	color: #4aaaa5;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+
+
+
+
+.connect {
+	background-color: #f2f2f2;
+	width: 200pt;
+	height: 150pt;
+	padding: 25px;
+	position: absolute;
+	left: 800pt;
+	bottom: 210pt;
+	
+}
+
+
+footer {
+		
+		position:absolute;
+		bottom: 2pt;
+		border-top: 10px solid #4aaaa5;
+		background-color: #666666;
+		width: 100%;
+		color: white;
+		height: 40pt;
+		text-align: center;
+		
+
+		
+}
+
+@media screen and (max-width: 980px, 768px, 640px) {

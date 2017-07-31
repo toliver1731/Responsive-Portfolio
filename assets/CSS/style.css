@@ -1,0 +1,126 @@
+h1 {
+	background-color: #4aaaa5;
+	color: white;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	border-color: #cccccc;
+	height: 50pt;
+	width: 220pt;
+	position: fixed;
+	bottom: 520pt;
+	left: 100pt;
+	text-align: auto;
+	padding-top: 35pt;
+	padding-left: 35pt;
+	
+		
+}
+#name {
+
+	position: absolute;
+
+}
+
+body {
+	margin-top:100pt;
+	margin-bottom: -2000pt;
+	margin-left: : 300px;
+	border-top: 5px solid black;
+	
+	background-image:url("../Images/ep_naturalwhite.png");
+
+}
+
+#about {
+	position: absolute;
+	right: 400pt;
+	bottom: 540pt;
+
+
+}
+
+#portfolio {
+	position: absolute;
+	right: 290pt;
+	bottom: 540pt;
+	border-left: 1px solid black;
+	border-right: 1px solid black
+
+}
+
+#contact {
+	position: absolute;
+	right: 180pt;
+	bottom: 540pt;
+}
+
+div{
+	 width: 565pt;
+	 height: 270pt;
+    border: 10px black;
+    padding-left:25pt;
+    margin: 25pt;
+    background-color: #f2f2f2;
+    padding-top: 35pt;
+    font-size: 14pt;
+    
+}
+
+#profilePic {
+	float: left;
+	position: center;
+	position: relative;	
+	right: 20pt;
+}
+
+
+
+h2 {
+	clear: both;
+	color: #4aaaa5;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	
+}	
+
+h3 {
+	color: #4aaaa5;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+
+p {
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	color: #777777;
+	
+}
+
+div{
+	color: #777777;
+	}
+.connect {
+	background-color: #f2f2f2;
+	width: 200pt;
+	height: 150pt;
+	padding: 25px;
+	position: absolute;
+	left: 800pt;
+	bottom: 250pt;
+	margin-top: 580pt;
+}
+
+
+footer {
+		
+		position:fixed;
+		bottom: 2pt;
+		border-top: 10px solid #4aaaa5;
+		background-color: #666666;
+		width: 100%;
+		color: white;
+		height: 50pt;
+		text-align: center;
+		
+}
+
+
+@media screen and (max-width: 980px, 768px, 640px) {
+    

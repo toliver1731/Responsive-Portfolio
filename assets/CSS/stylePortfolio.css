@@ -1,0 +1,196 @@
+h1 {
+	background-color: #4aaaa5;
+	color: white;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	border-color: #cccccc;
+	height: 50pt;
+	width: 220pt;
+	position: absolute;
+	bottom: 457pt;
+	left: 100pt;
+	text-align: auto;
+	padding-top: 35pt;
+	padding-left: 35pt;
+	
+		
+}
+#name {
+
+	position: absolute;
+
+}
+div{
+	 width: 375pt;
+	 height: 670pt;
+    border: 10px black;
+    padding-left:25pt;
+    margin-left: 20%;
+    background-color: #f2f2f2;
+    padding-top: 35pt;
+    font-size: 14pt;
+    padding-top: 20pt;
+    
+}
+body {
+	margin-top:100pt;
+	margin-bottom: -2000pt;
+	margin-left: : 300px;
+	border-top: 5px solid black;
+	
+	background-image:url("../Images/ep_naturalwhite.png");
+
+}
+h2 span{
+	position: absolute;
+	top: 120pt;
+	left: 35pt;
+	background-color: #4aaaa5;
+	color: white;
+	width: 130pt;
+	height: 30pt;
+	text-align: center;
+	padding-top: 10pt;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	font-size: 12pt;
+}
+
+#hangman {
+	margin: 10px;
+	position: 
+	
+}
+
+#rpgGame {
+	margin: 10px;
+}
+
+#trivia {
+	margin: 10px;
+}
+
+#rutgers {
+	margin: 10px;
+}
+
+#rockpaper {
+	margin: 10px;
+}
+
+.hm{
+	position: absolute;
+	top: 280pt;
+	left: 275pt;
+	background-color: #4aaaa5;
+	color: white;
+	width: 128pt;
+	text-align: center;
+
+}
+
+.rpg{
+	position: absolute;
+	top: 280pt;
+	left: 435pt;
+	background-color: #4aaaa5;
+	color: white;
+	width: 148pt;
+	text-align: center;
+}
+
+.tg {
+	position: absolute;
+	top: 460pt;
+	left: 265pt;
+	background-color: #4aaaa5;
+	color: white;
+	width: 148pt;
+	text-align: center;
+}
+
+.riw {
+	position: absolute;
+	top: 440pt;
+	left: 433pt;
+	background-color: #4aaaa5;
+	color: white;
+	width: 150pt;
+	text-align: center;
+}
+
+.rps {
+	position: absolute;
+	top: 607pt;
+	left: 258pt;
+	background-color: #4aaaa5;
+	color: white;
+	width: 148pt;
+	text-align: center;
+
+}
+
+#about {
+	position: absolute;
+	right: 400pt;
+	bottom: 460pt;
+
+
+}
+
+#portfolio {
+	position: absolute;
+	right: 290pt;
+	bottom: 460pt;
+	border-left: 1px solid black;
+	border-right: 1px solid black
+
+}
+
+#contact {
+	position: absolute;
+	right: 180pt;
+	bottom: 460pt;
+}
+
+
+
+
+
+
+h2 {
+	clear: both;
+	color: #4aaaa5;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	
+}	
+
+
+
+div{
+	color: #777777;
+	}
+.connect {
+	background-color: #f2f2f2;
+	width: 200pt;
+	height: 150pt;
+	padding: 25px;
+	position: absolute;
+	left: 600pt;
+	bottom: 200pt;
+	margin-top: 580pt;
+}
+
+
+footer {
+		
+		position:fixed;
+		bottom: 1pt;
+		border-top: 10px solid #4aaaa5;
+		background-color: #666666;
+		width: 100%;
+		color: white;
+		height: 50pt;
+		text-align: center;
+		
+}
+
+@media screen and (max-width: 980px, 768px, 640px) {
